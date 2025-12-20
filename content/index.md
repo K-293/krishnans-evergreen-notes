@@ -3,8 +3,6 @@ title: Hi, I am Krishnan
 tags:
   - vault
 ---
-
-# Hi, I am Krishnan
 Welcome to my digital garden 🪴
 
 I use it to capture thoughts as I work through them. Most of what you’ll see here is unfinished, exploratory, and sometimes messy. These notes exist to help me think clearly, notice patterns, and learn over time. They are not meant to be authoritative or complete.
