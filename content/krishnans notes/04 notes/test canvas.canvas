@@ -1,0 +1,9 @@
+{
+	"nodes":[
+		{"id":"602ec027fc1965c4","x":-456,"y":-261,"width":250,"height":60,"type":"text","text":"Testing out obsidian canvas"},
+		{"id":"5e644490504d9254","x":-286,"y":-42,"width":250,"height":60,"type":"text","text":"Seeing if it will work when published"}
+	],
+	"edges":[
+		{"id":"127d20be50c0f212","fromNode":"602ec027fc1965c4","fromSide":"bottom","toNode":"5e644490504d9254","toSide":"top","label":"connect"}
+	]
+}
