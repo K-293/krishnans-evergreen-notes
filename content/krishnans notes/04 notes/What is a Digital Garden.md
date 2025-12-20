@@ -4,8 +4,6 @@ tags:
   - vault
 date: 2025-12-20
 ---
-# What is a Digital Garden
-
 Your understanding, judgment, and taste cannot be outsourced to a model.
 
 Because models generate patterns based on past data. While,
