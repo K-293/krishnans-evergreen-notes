@@ -1,0 +1,6 @@
+---
+tags:
+  - daily
+aliases:
+link:
+---

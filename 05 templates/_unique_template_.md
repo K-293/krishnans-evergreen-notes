@@ -1,0 +1,6 @@
+---
+tags:
+  - zettel
+aliases:
+date:
+---
