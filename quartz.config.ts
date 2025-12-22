@@ -8,7 +8,7 @@ import * as Plugin from "./quartz/plugins"
  */
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "Quartz 4",
+    pageTitle: "Krishnans Evergreen Notes",
     pageTitleSuffix: "",
     enableSPA: true,
     enablePopovers: true,
@@ -16,7 +16,7 @@ const config: QuartzConfig = {
       provider: "plausible",
     },
     locale: "en-US",
-    baseUrl: "quartz.jzhao.xyz",
+    baseUrl: "k-293.github.io/krishnans-evergreen-notes",
     ignorePatterns: ["private", "templates", ".obsidian"],
     defaultDateType: "modified",
     theme: {
@@ -27,29 +27,35 @@ const config: QuartzConfig = {
         body: "Source Sans Pro",
         code: "IBM Plex Mono",
       },
-      colors: {
-        lightMode: {
-          light: "#faf8f8",
-          lightgray: "#e5e5e5",
-          gray: "#b8b8b8",
-          darkgray: "#4e4e4e",
-          dark: "#2b2b2b",
-          secondary: "#284b63",
-          tertiary: "#84a59d",
-          highlight: "rgba(143, 159, 169, 0.15)",
-          textHighlight: "#fff23688",
+      colors: 
+      {
+        lightMode: 
+        {
+    light: "#ffffff",
+    lightgray: "#f2f3f5",
+    gray: "#d1d5db",
+    darkgray: "#6b7280",
+    dark: "#111827",
+
+    secondary: "#3a5bc7",
+    tertiary: "#8ba4ff",
+
+    highlight: "rgba(60, 99, 255, 0.12)",
+    textHighlight: "rgba(255, 230, 150, 0.6)",
         },
-        darkMode: {
-          light: "#161618",
-          lightgray: "#393639",
-          gray: "#646464",
-          darkgray: "#d4d4d4",
-          dark: "#ebebec",
-          secondary: "#7b97aa",
-          tertiary: "#84a59d",
-          highlight: "rgba(143, 159, 169, 0.15)",
-          textHighlight: "#b3aa0288",
-        },
+  darkMode: {
+    light: "#1e1e1e",
+    lightgray: "#2a2a2a",
+    gray: "#3f3f3f",
+    darkgray: "#b3b3b3",
+    dark: "#e5e5e5",
+
+    secondary: "#8ba4ff",
+    tertiary: "#5b7cff",
+
+    highlight: "rgba(140, 170, 255, 0.15)",
+    textHighlight: "rgba(255, 230, 150, 0.4)",
+  },
       },
     },
   },
