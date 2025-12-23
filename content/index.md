@@ -1,7 +1,6 @@
 ---
 title: Hi, I am Krishnan
 tags:
-  - vault
 ---
 Welcome to my digital garden 🪴
 

@@ -8,7 +8,7 @@ import * as Plugin from "./quartz/plugins"
  */
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "Krishnans Evergreen Notes",
+    pageTitle: "krishnans digital garden",
     pageTitleSuffix: "",
     enableSPA: true,
     enablePopovers: true,
@@ -34,7 +34,7 @@ const config: QuartzConfig = {
     light: "#ffffff",
     lightgray: "#f2f3f5",
     gray: "#d1d5db",
-    darkgray: "#6b7280",
+    darkgray: "#25364bff",
     dark: "#111827",
 
     secondary: "#3a5bc7",
@@ -50,8 +50,8 @@ const config: QuartzConfig = {
     darkgray: "#b3b3b3",
     dark: "#e5e5e5",
 
-    secondary: "#8ba4ff",
-    tertiary: "#5b7cff",
+    secondary: "#32c06fff",
+    tertiary: "#0e9743ff",
 
     highlight: "rgba(140, 170, 255, 0.15)",
     textHighlight: "rgba(255, 230, 150, 0.4)",

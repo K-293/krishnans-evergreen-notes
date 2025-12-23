@@ -1,7 +1,5 @@
 ---
 tags:
-  - digital-garden
-  - vault
 date: 2025-12-20
 ---
 Your understanding, judgment, and taste cannot be outsourced to a model.
@@ -42,12 +40,3 @@ You do not need to read this linearly.
 2. Skim freely. Treat notes as snapshots in time rather than final positions.
 3. If something feels incomplete or contradictory, that is expected. You are seeing thinking in motion.
 4. If parts of this are useful, feel free to adapt the ideas for your own system.
-
----
-
-[[test-canvas.canvas|test-canvas]] doesnt work in Quartz, nor does [[20251220184210.excalidraw]]
-
-
-But embeds, do they work?
-
-![[20251220184210.excalidraw]]
