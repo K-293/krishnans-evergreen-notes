@@ -1,0 +1,3 @@
+Muscle is the largest site for glucose uptake in the body, so it plays a central role in [[Insulin resistance]]. 
+
+When muscles are active and well trained, they pull glucose from the blood efficiently, even with less insulin. When muscle mass is low or underused, the cells become less responsive to insulin, forcing the body to produce more of it. Over time, this reduced glucose uptake by muscle becomes one of the earliest and strongest drivers of whole-body insulin resistance.
