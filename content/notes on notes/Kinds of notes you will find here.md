@@ -1,3 +1,7 @@
+---
+date: 2025-12-21
+---
+
 This garden contains different kinds of notes, often overlapping.
 
 1. Some notes are quick captures. Short thoughts, questions, quotes, or fragments written to avoid losing an idea. I call them zettels or fleeting notes

@@ -1,3 +1,7 @@
+---
+date: 2025-12-19
+---
+
 You do not need to read this linearly.
 1. Follow links that catch your interest. 
 2. Skim freely. Treat notes as snapshots in time rather than final positions.
